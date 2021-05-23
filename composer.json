@@ -1,0 +1,14 @@
+{
+    "name": "thedreamsky/demo",
+    "description": "test composer",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "zhangqinglei",
+            "email": "827011968@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
